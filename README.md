@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ridwyx
+- 👀 I’m interested in all things crypto
+- 🌱 I’m currently learning Rust & Solidity & Urbit
+- 📫 Find me on Twitter @ridwyx
